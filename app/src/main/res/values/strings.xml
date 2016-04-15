@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Avisos</string>
     <string name="msgInicial">Hola!\nHoy es un gran día!</string>
+    <string name="texto">Aviso Text</string>
 </resources>
